@@ -15,7 +15,7 @@ Building AI-powered apps and full-stack platforms
 # 🚀 About Me
 
 • Software Engineering student graduating **2026**
-• Interested in **AI systems, immersive XR, and full-stack development**
+• Interested in **AI systems and full-stack development**
 • I enjoy building **real products used by real people**
 • Focused on **modern web architecture + intelligent systems**
 
@@ -45,56 +45,6 @@ Building AI-powered apps and full-stack platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws,supabase,postman" />
-</p>
-
----
-
-# 🌟 Featured Projects
-
-## 🧠 Nimbus Labs – XR 3D Model Platform
-
-Interactive platform for exploring and manipulating 3D models.
-
-• Real-time **WebGL 3D viewport** for model decomposition
-• Integrated **AI conversational interface** for model interaction
-• Implemented **WebXR immersive visualization (VR environments)**
-
-Tech: React • TypeScript • WebXR • Gemini API
-
----
-
-## 🎮 Family Feud Event Platform
-
-Full-stack platform for hosting custom Family Feud games.
-
-• Used at a **200+ attendee campus banquet**
-• Later adopted by **multiple student organizations**
-• Includes authentication, dashboards, and dynamic game boards
-
-Tech: Next.js • Supabase • PostgreSQL • Tailwind • Vercel
-
----
-
-## 🎵 ML Playlist Recommendation System
-
-Machine learning system generating personalized playlists.
-
-• Built **K-Nearest Neighbors recommendation model**
-• Feature engineering + similarity metrics for music matching
-• Integrated with backend APIs for real-time recommendations
-
-Tech: Python • Scikit-Learn • Spring Boot • MySQL
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RayKang8&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayKang8&layout=compact&theme=tokyonight" />
-
 </p>
 
 ---
