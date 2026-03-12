@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Software Engineering Student @ Western University  
+Software Engineer 
 Building AI-powered apps and full-stack platforms
 </p>
 
