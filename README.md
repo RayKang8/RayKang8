@@ -1,9 +1,8 @@
 # Hi, I'm Ray Kang 👋
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Software+Engineer;Building+AI-powered+apps+and+full-stack+platforms" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Software+Engineer;AI+Applications+%7C+Full+Stack+Development" />
 </p>
-
 
 <p align="center">
 Software Engineer 
